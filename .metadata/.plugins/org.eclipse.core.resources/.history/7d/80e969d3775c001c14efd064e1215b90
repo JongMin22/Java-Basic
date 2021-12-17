@@ -1,0 +1,6 @@
+package overriding;
+
+public class Animal3 extends Animal {
+
+	private int weight;
+}

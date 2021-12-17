@@ -1,0 +1,7 @@
+package game.inheritance;
+
+public class Warrior0 extends Commoner{
+
+	
+	
+}

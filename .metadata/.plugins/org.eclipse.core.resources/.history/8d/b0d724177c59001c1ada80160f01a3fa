@@ -1,0 +1,11 @@
+package constructor;
+
+public class Main02P204 {
+
+BasketballPlayer a = new BasketballPlayer("조던", 190, 110);
+
+    
+     
+     
+
+}

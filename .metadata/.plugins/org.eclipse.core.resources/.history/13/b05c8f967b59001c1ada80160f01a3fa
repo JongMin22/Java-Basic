@@ -1,0 +1,8 @@
+package constructor;
+
+public class Main02P204 {
+
+BastketballPlayer a = new BasketballPlyer();
+
+
+}

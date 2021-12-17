@@ -1,0 +1,39 @@
+package game.interaction;
+
+public class Orc {
+	  private int hp;
+	  private int atk;
+	  private int dep;
+
+	  public Orc() {
+		  this.hp = 5;
+		  this.atk = 3;
+		  this.dep = 0;
+	  }
+// getter/setter를 Warrior, Orc에 만들어주세요
+
+	public int getHp() {
+		return hp;
+	}
+
+	public void setHp(int hp) {
+		this.hp = hp;
+	}
+
+	public int getAtk() {
+		return atk;
+	}
+
+	public void setAtk(int atk) {
+		this.atk = atk;
+	}
+
+	public int getDep() {
+		return dep;
+	}
+
+	public void setDep(int dep) {
+		this.dep = dep;
+	}
+
+}

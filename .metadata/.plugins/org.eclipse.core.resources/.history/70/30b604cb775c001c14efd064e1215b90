@@ -1,0 +1,8 @@
+package overriding;
+
+public class Animal2 extends Animal {
+
+	private String feed;
+ 	
+	
+}

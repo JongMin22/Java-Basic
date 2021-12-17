@@ -1,0 +1,16 @@
+package game.interaction;
+
+public class Warrior {
+
+	private int hp;
+	private int mp;
+	private int dep;
+	private int exp;
+	
+	public Warrior(int hp, int mp, int dep, int exp) {
+		this.hp = 20;
+		this.mp = 10;
+		this.dep = 4;
+		this.exp = 1;
+	}
+}

@@ -1,0 +1,46 @@
+package aceessmodifier;
+
+public class MainP197 {
+public static void main(String[] args) {
+	// 전사를 하나 만들고 사냥을 3번 하세요.
+	
+	
+	Warrior a = new Warrior("전사");
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	a.hunt();
+	
+}
+}

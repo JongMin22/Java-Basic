@@ -1,0 +1,9 @@
+package game.inheritance;
+
+public class Main01 {
+public static void main(String[] args) {
+	
+	Commoner c = new Commoner("히어로");
+	c.getInfo();
+}
+}

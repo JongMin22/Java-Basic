@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;structure.Stucture03P190&apos; to &apos;Structure03P190&apos;&#x0D;&#x0A;- Original project: &apos;2021-12-08~09&apos;&#x0D;&#x0A;- Original element: &apos;structure.Stucture03P190&apos;&#x0D;&#x0A;- Renamed element: &apos;structure.Structure03P190&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Stucture03P190&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;structure{Stucture03P190.java[Stucture03P190" matchStrategy="1" name="Structure03P190" qualified="false" references="true" similarDeclarations="false" stamp="1639019817133" textual="false" version="1.0"/>
+</session>

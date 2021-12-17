@@ -1,0 +1,14 @@
+package polymorphism;
+
+public class Sallaryman extends Person{
+
+	private int pay;
+	
+public Sallaryman(String name, int age, int pay) {
+	 super(name,age);
+	 this.pay =pay;
+	
+}	
+
+
+}
