@@ -4,4 +4,8 @@
     <fullyQualifiedTypeName name="javax.swing.plaf.multi.MultiPanelUI"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="game.polymorphism.Orc"/>
+    <fullyQualifiedTypeName name="game.polymorphism.Commoner"/>
+    <fullyQualifiedTypeName name="practice.Warrior"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
 </qualifiedTypeNameHistroy>
