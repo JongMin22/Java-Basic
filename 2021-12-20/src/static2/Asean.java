@@ -36,6 +36,9 @@ public class Asean {
 	}
 	// ex) 중간고사 : xx점 , 기말고사 : xx점, .....
 	
+	// priavte static 같은 static영역에서 접근하도록 만들어야 합니다.
+	
+	
 	// 위 요소 정의 후 Main01P276.java를 생성해서 구성원 4명을 만들어 활용해보세요. 
 	
 }
