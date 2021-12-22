@@ -19,7 +19,7 @@ public class Airplane implements Vehicle{
 	@Override
 	public void accel() {
 		if(gas > MIN_GAS) {
-			this.speed += AIRPLANE_DECRESED_SPD;
+			this.speed += AIRPLANE_INCRESED_SPD;
 			if(speed >= AIRPLANE_MAX_SPD) {
 				speed = AIRPLANE_MAX_SPD; System.out.println("비행기는 현재 최대속도입니다.");
 			return;}

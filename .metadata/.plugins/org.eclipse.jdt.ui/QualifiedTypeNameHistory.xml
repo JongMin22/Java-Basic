@@ -10,4 +10,5 @@
     <fullyQualifiedTypeName name="java.lang.Void"/>
     <fullyQualifiedTypeName name="static1.StaticTest"/>
     <fullyQualifiedTypeName name="static2.Asean"/>
+    <fullyQualifiedTypeName name="final2.Country"/>
 </qualifiedTypeNameHistroy>
