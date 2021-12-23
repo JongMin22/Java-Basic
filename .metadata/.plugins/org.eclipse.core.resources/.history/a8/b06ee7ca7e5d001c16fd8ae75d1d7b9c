@@ -1,8 +1,0 @@
-package game.accessmodifier;
-
-public class Main02 {
-            Warrior w1 = new Warrior("히어로");
-            w1.hunt();
-            
-            
-}

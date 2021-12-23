@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.swing.plaf.multi.MultiPanelUI"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="game.polymorphism.Orc"/>
     <fullyQualifiedTypeName name="game.polymorphism.Commoner"/>
     <fullyQualifiedTypeName name="practice.Warrior"/>
@@ -11,4 +10,5 @@
     <fullyQualifiedTypeName name="static1.StaticTest"/>
     <fullyQualifiedTypeName name="static2.Asean"/>
     <fullyQualifiedTypeName name="final2.Country"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
