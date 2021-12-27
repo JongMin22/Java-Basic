@@ -13,6 +13,7 @@ public class Throws01P361 {
 	int i = (int)(Math.random() * 5 ); // 정수 0,1,2,3,4
 	
 	try {
+		System.out.println(i);
 		doIt(greetings, i);
 		}catch(Exception e) {System.out.println("main지역에서 처리했습니다.");}
 	

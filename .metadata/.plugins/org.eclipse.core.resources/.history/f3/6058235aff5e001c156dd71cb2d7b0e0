@@ -1,8 +1,0 @@
-package game.polymorphism;
-
-public class Warrior {
-   
-	public Warrior() {
-	super("전사",50,20,5);
-}
-}

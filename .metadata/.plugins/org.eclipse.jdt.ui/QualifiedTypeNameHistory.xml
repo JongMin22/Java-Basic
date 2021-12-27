@@ -10,5 +10,7 @@
     <fullyQualifiedTypeName name="static1.StaticTest"/>
     <fullyQualifiedTypeName name="static2.Asean"/>
     <fullyQualifiedTypeName name="final2.Country"/>
+    <fullyQualifiedTypeName name="java.lang.SafeVarargs"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.IndexOutOfBoundsException"/>
 </qualifiedTypeNameHistroy>
