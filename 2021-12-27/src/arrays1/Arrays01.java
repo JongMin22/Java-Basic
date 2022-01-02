@@ -11,7 +11,7 @@ public class Arrays01 {
 		// 2. 배멸이 오름차순(작은 숫자일수록 0번인덱스에 가깝게) 이어야 함.
 		
 		// 정렬이 안 된 상태의 배열 내부를 탐샐할 때는 찾지 못함.
-		int[] arr1 = {5, 7, 6, 1, 3, 9, 0, 12};
+		int[] arr1 = {5, 0, 6, 1, 3, 9, 7, 12};
 		
 		// 이진탐색 수행 명령어 : Arrays.binarySearch(배열명.찾는값);
 		int a = Arrays.binarySearch(arr1, 0);

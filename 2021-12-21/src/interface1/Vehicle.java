@@ -8,6 +8,8 @@ package interface1;
 public interface Vehicle {
 	// 최대 연료량    
 	// 바로 상수로 잡힙니다.
+	
+	int CAR_MAX_SPD = 200;
 	int MAX_GAS =100;
 	int CAR_INCREASED_SPEED = 10;
 	int CAR_DECREASED_SPEED = 10;

@@ -13,7 +13,7 @@ public class Car implements Vehicle{
 	
 	public Car(String name) {
 		this.name = name;
-		this.speed = 0;
+		this.speed = MIN_SPD;
 		this.gas = MAX_GAS;
 		
 	}
@@ -22,12 +22,12 @@ public class Car implements Vehicle{
 	// 한 번 가속시 속도가 10씩 늘어나도록 해주세요.
     // 연료는 한 번 가속에 1씩 소비합니다.
     // 단 속도는 200을 초과할수 업습니다.
-    	if(gas>0) {
+    	if(gas>MIN_GAS) {
     	this.speed += CAR_INCREASED_SPEED;
-    	if(speed > 200) {speed =200; System.out.println("현재 최대속도 입니다.");
+    	if(speed > CAR_MAX_SPD) {speed =CAR_MAX_SPD; System.out.println("현재 최대속도 입니다.");
     	return;}
     	}this.gas -=CAR_DECREASED_GAS;
-    	if(gas <= 0) {gas = 0; System.out.println("연료가 부족합니다.");}
+    	if(gas <= MIN_GAS) {gas = MIN_GAS; System.out.println("연료가 부족합니다.");}
 }   @Override
     public void breasSpeed() {
    	// 한 번 감속할때마다 속도가 10씩 줄도록 해주세요.
@@ -43,7 +43,7 @@ public class Car implements Vehicle{
    			
    }
 	  
-    @Override
+@Override
     public void reFuel()     {
     	// 연료는 다시 채울때마다 30씩 채워줍니다.
     	// 단, 연료 최대값은 상수 MAX_GAS를 이용해서 측정해주세요.

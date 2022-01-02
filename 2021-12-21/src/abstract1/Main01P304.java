@@ -7,6 +7,7 @@ public class Main01P304 {
 		
 		// 단 Parent를 상속받아 getAge메서드로 구체화시킨
 		// Child타입으로는 객체생성 및 사용이 가능합니다.
+		
 		Parent c = new Child();
 		c.getAge();
 		// 따로 오버라이딩 하지 않아도 일반 메서드는 상속 받았다면 사용가능.

@@ -2,7 +2,7 @@ package final1;
 
 public class FinailMain01P278 {
 	public static void main(String[] args) {
-		// 살수를 선언할때는 자료형 왼쪽에 final 키워드를 붙인다
+		// 실수를 선언할때는 자료형 왼쪽에 final 키워드를 붙인다
 		
 		final int a =50;
 	

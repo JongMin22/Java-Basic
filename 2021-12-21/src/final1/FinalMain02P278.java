@@ -19,16 +19,7 @@ public class FinalMain02P278 {
 	    System.out.println(WARRIOR_HP);
 	    System.out.println(MONSTER_HP);
 		
-	    System.out.println(WARRIOR_HP);
-	    System.out.println(MONSTER_HP);
-	    
-	    System.out.println(WARRIOR_HP);
-	    System.out.println(MONSTER_HP);
-	    
-	    System.out.println(WARRIOR_HP);
-	    System.out.println(MONSTER_HP);
-	    
-	
+	   
 	}
 
 }
